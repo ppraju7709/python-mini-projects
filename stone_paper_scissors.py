@@ -86,4 +86,5 @@ reset_btn = tk.Button(root, text="Reset Game", command=reset)
 reset_btn.pack(pady=10)
 
 # Run app
+
 root.mainloop()
